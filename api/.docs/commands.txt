@@ -1,2 +1,0 @@
-Add migrations: dotnet ef migrations add "InitialCreate"
-Run: dotnet ef database update

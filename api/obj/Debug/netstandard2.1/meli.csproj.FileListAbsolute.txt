@@ -1,4 +1,0 @@
-C:\Users\Melita Cvetkovic\Documents\MojWebProjekat\meli\api\obj\Debug\netstandard2.1\meli.csprojAssemblyReference.cache
-C:\Users\Melita Cvetkovic\Documents\MojWebProjekat\meli\api\obj\Debug\netstandard2.1\meli.csproj.CoreCompileInputs.cache
-C:\Users\Melita Cvetkovic\Documents\MojWebProjekat\meli\api\obj\Debug\netstandard2.1\meli.AssemblyInfoInputs.cache
-C:\Users\Melita Cvetkovic\Documents\MojWebProjekat\meli\api\obj\Debug\netstandard2.1\meli.AssemblyInfo.cs
